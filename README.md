@@ -79,3 +79,5 @@ This lab demonstrates that in a **monolithic architecture**, inefficient code in
 ## Author
 
 SRN: PES2UG23CS103
+
+<img width="1858" height="999" alt="Screenshot 2026-01-29 143326" src="https://github.com/user-attachments/assets/2e673085-0ded-4444-ac62-63d63d9fa667" />
